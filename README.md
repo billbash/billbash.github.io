@@ -1,4 +1,0 @@
-billbash.github.com
-===================
-
-Blog
